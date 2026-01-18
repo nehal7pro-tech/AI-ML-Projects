@@ -31,10 +31,6 @@ This folder contains projects focused on **understanding, cleaning, and explorin
 
 ---
 
-## Projects
-
-> Projects will be added incrementally.
-
 ### 📌 Project List
 - **Sales Data Exploratory Analysis**  
   Analysis of revenue trends, regional performance, and product insights.
@@ -42,25 +38,5 @@ This folder contains projects focused on **understanding, cleaning, and explorin
 - **HR Analytics EDA**  
   Workforce trends and employee attrition analysis.
 
-*(More projects coming soon)*
-
 ---
 
-## Folder Structure
-
-1_Exploratory_Data_Analysis/
-│
-├── project_name/
-│ ├── data/
-│ ├── notebooks/
-│ ├── scripts/
-│ ├── screenshots/
-│ └── README.md
-
-
----
-
-## Notes
-
-- Each project has its own README
-- Focus is on interpretation and insights, not just code
