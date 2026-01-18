@@ -3,13 +3,12 @@
 This repository contains a growing collection of **hands-on projects** covering **Data Analysis, Machine Learning, Deep Learning, NLP, Artificial Intelligence, and Generative AI**.
 
 The goal of this repository is to demonstrate **practical, real-world problem solving** using Python and modern AI/ML tools.  
-New projects are added continuously as I learn and build.
 
 ---
 
 ## Projects Overview
 
-> This section will grow as more projects are added.
+> This section will grow as more projects are added. New projects are added continuously as I learn and build.
 
 ### 🔹 Exploratory Data Analysis
 - Fortune 500 EDA
@@ -52,6 +51,7 @@ New projects are added continuously as I learn and build.
 1. Clone the repository:
    ```bash
    git clone https://github.com/nehal7pro-tech/AI-ML-Projects.git
+
 
 
 
