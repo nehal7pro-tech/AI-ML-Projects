@@ -12,7 +12,8 @@ The goal of this repository is to demonstrate **practical, real-world problem so
 
 ### 🔹 Exploratory Data Analysis
 - Fortune 500 EDA
-*(More coming soon)*
+- Uber Eats EDA
+- Retail Data Analysis
 
 ### 🔹 Machine Learning
 - Regression Models
@@ -45,3 +46,4 @@ The goal of this repository is to demonstrate **practical, real-world problem so
 - Analytical Thinking & Problem Solving
 
 ---
+
