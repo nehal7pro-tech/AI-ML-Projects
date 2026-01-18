@@ -45,9 +45,3 @@ The goal of this repository is to demonstrate **practical, real-world problem so
 - Analytical Thinking & Problem Solving
 
 ---
-
-## How to Use This Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nehal7pro-tech/AI-ML-Projects.git
