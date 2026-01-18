@@ -7,23 +7,6 @@ New projects are added continuously as I learn and build.
 
 ---
 
-## Repository Structure
-
-AI-ML-Projects/
-│
-├── 1_Exploratory_Data_Analysis/
-├── 2_Machine_Learning/
-├── 3_Deep_Learning_and_NLP/
-└── 4_Artificial_Intelligence_and_Generative_AI/
-
-
-Each folder contains:
-- Individual projects
-- Jupyter notebooks / Python scripts
-- A dedicated README explaining concepts and projects
-
----
-
 ## Projects Overview
 
 > This section will grow as more projects are added.
@@ -69,6 +52,7 @@ Each folder contains:
 1. Clone the repository:
    ```bash
    git clone https://github.com/nehal7pro-tech/AI-ML-Projects.git
+
 
 
 
