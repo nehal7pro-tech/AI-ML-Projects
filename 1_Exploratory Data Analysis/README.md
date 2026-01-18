@@ -1,6 +1,3 @@
-
----
-
 # `1_Exploratory_Data_Analysis/README.md`
 
 ```markdown
@@ -40,3 +37,4 @@ This folder contains projects focused on **understanding, cleaning, and explorin
   Workforce trends and employee attrition analysis.
 
 ---
+
