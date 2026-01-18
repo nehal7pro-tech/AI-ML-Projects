@@ -1,7 +1,7 @@
 
 ---
 
-# ✅ 2️⃣ `1_Exploratory_Data_Analysis/README.md`
+# `1_Exploratory_Data_Analysis/README.md`
 
 ```markdown
 # Exploratory Data Analysis (EDA)
@@ -39,4 +39,5 @@ This folder contains projects focused on **understanding, cleaning, and explorin
   Workforce trends and employee attrition analysis.
 
 ---
+
 
